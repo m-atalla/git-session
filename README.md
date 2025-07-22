@@ -1,3 +1,3 @@
 # git-session
 
-This is a session for ZINAD interns
+This is a session for ZINAD interns.
